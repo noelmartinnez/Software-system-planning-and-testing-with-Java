@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <cliente id="1"
+             nombre="Prueba1"
+             apellido="Insert"
+             direccion="Calle Vinalopo"
+             ciudad="Alicante" />
+
+    <cliente id="2"
+             nombre="Prueba2"
+             apellido="Insert"
+             direccion="Calle Crevillent"
+             ciudad="Elche" />
+</dataset>

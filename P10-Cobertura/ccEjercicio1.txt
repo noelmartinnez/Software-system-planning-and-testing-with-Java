@@ -1,0 +1,5 @@
+CC : Nº de aristas - Nº nodos + 2
+
+CC : 6 - 5 + 2 -> 3
+
+CC : 3
